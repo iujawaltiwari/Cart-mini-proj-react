@@ -27,5 +27,12 @@ body {
 }
 .cart{
   display: flex;
-  flex-direction: column;
+  /* flex-direction: row; */
+  flex-wrap: wrap;
 }
+.profile {
+  text-align: left;
+  width: 70172px;
+  color: black;
+}
+
